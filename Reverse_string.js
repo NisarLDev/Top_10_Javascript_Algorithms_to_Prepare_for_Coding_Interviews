@@ -6,5 +6,12 @@
 //   reverse('CodingMoney') === 'yenoMgnidoC'
 
 function reverse(str) {
-  
+  let reversed = '';
+
+  for(let i=0; i<str.lenght; i++){
+    reversed = str[i] + reversed
+  }
+  return reversed;
 }
+
+console.log(reverse('JavaScript'));
