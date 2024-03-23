@@ -5,6 +5,8 @@
 //   reverse('hello') === 'olleh'
 //   reverse('CodingMoney') === 'yenoMgnidoC'
 
+
+// Old JavaScript Sintax
 function reverse(str) {
   let reversed = '';
 
@@ -15,3 +17,21 @@ function reverse(str) {
 }
 
 console.log(reverse('JavaScript'));
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+// New JavaScript Sintax
+
+function reverse(str) {
+  let reversed = '';
+
+  for(let char of str){
+    reversed = char + reversed;
+  }
+  return reversed;
+}
+
+console.log(reverse('JavaScript'));
+
+
