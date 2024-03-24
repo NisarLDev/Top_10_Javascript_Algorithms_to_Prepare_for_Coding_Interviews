@@ -13,6 +13,16 @@ function palindrome(str){
 
 console.log(palindrome('kayak'));
 
+//  The Second teacher's way of doing it
+
+function palindrome(str){
+    const reversed = str.split('').reverse().join('');
+
+        return str === reversed;
+}
+
+console.log(palindrome('kayak'));
+
 
 //  My way of doing it
 
