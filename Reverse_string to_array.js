@@ -6,3 +6,7 @@ function reverse(str){
 }
 
 // Same function but short coding
+
+function reverse(str){
+  return str.split('').reverse().join('')
+}
