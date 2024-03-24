@@ -2,13 +2,13 @@
 
 
 function palindrome(str){
-    const reversed = str.split('').reverse().join('')
+    const reversed = str.split('').reverse().join('');
 
     if(str === reversed){
-        return true
+        return true;
     }
 
-    return false
+    return false;
 }
 
 console.log(palindrome('kayak'));
@@ -17,12 +17,12 @@ console.log(palindrome('kayak'));
 //  My way of doing it
 
 function palindrome(str){
-    const reversed = str.split('').reverse().join('')
+    const reversed = str.split('').reverse().join('');
 
     if(str === reversed){
-        return true
+        return true;
     } else
-        return false
+        return false;
 }
 
 console.log(palindrome('kayak'));
