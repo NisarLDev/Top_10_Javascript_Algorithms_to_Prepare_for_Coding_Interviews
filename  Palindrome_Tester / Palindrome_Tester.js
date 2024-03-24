@@ -11,7 +11,7 @@ function palindrome(str){
     return false
 }
 
-console.log(palindrome('kayak'))
+console.log(palindrome('kayak'));
 
 
 //  My way of doing it
@@ -25,4 +25,4 @@ function palindrome(str){
         return false
 }
 
-console.log(palindrome('kayak'))
+console.log(palindrome('kayak'));
