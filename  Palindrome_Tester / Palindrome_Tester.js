@@ -10,3 +10,5 @@ function palindrome(str){
 
     return false
 }
+
+console.log(palindrome('kayak'))
