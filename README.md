@@ -22,6 +22,6 @@ https://medium.com/@goforsupriya/most-popular-leetcode-problems-to-help-crack-co
 
 https://github.com/hxu296/leetcode-company-wise-problems-2022/tree/main
 
-5 - Intro to Stacks – Data Structure and Algorithm Tutorial
+5 - Intro to Stacks – Data Structure and Algorithm Tutorial.
 
 https://www.freecodecamp.org/news/intro-to-stacks-data-structure-and-algorithm-tutorial/
