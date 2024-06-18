@@ -5,7 +5,7 @@ Top 10 Javascript Algorithms to Prepare for Coding Interviews. FreeCodeCamp.
 
 ### Bibliography
 
-1-  I gave 127 interviews. Top 5 Algorithms they asked me.
+1 - I gave 127 interviews. Top 5 Algorithms they asked me.
 
 https://www.youtube.com/watch?v=EM8IgIIiOdY
 
